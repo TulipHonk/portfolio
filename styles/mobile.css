@@ -98,14 +98,6 @@ header {
     box-shadow: 2px 2px 9px rgba(0, 0, 0, 0.359);
 }
 
-
-#credit {
-    background-color: black;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
-    display: block;
-}
-
 #burg {
     display: none;
 }
@@ -123,6 +115,7 @@ header {
 .projects img {
     border-radius: 20px;
     box-shadow: -2px 2px 9px rgba(62, 62, 62, 0.352);
+    max-width: 100%;
 }
 
 .pages {
